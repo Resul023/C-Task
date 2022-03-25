@@ -21,30 +21,33 @@ namespace _24Mart
             //TASK1
 
             /*   string word = Console.ReadLine();
-               string newWord = "This number haven't digit";
+               string newWord = "";
                int count = 0;
                for (int i = 0; i < word.Length; i++)
                {
                    if (char.IsDigit(word[i]) == true)
                    {
                        count++;
+                       break;
                    }
                    else if (char.IsUpper(word[i]) == true)
                    {
                        count++;
+                       break;
                    }
                    else if (char.IsLower(word[i]) == true)
                    {
                        count++;
+                       break;
                    }
                }
                if (count >= 3)
                {
-                   Console.WriteLine("This word have all features");
+                   Console.WriteLine("This word have all features so True");
                }
                else
                {
-                   Console.WriteLine("This word haven't all features or some of them");
+                   Console.WriteLine("This word haven't all features or some of them so False");
                }
                        */ // TASK 2
 
