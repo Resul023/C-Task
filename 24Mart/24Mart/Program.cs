@@ -57,11 +57,11 @@ namespace _24Mart
             int resultCount = count + countTwo + countThree;
             if (resultCount >= 3)
             {
-                Console.WriteLine("True");
+                Console.WriteLine(check);
             }
             else
             {
-                Console.WriteLine("False");
+                Console.WriteLine(check = false);
             }
                        */ // TASK 2
 
