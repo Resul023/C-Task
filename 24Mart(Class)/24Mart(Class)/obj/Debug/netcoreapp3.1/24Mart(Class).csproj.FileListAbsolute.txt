@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\C#Tasks\24Mart(Class)\24Mart(Class)\bin\Debug\netcoreapp3.1\24Mart(Class).exe
+C:\Users\User\Desktop\C#Tasks\24Mart(Class)\24Mart(Class)\bin\Debug\netcoreapp3.1\24Mart(Class).deps.json
+C:\Users\User\Desktop\C#Tasks\24Mart(Class)\24Mart(Class)\bin\Debug\netcoreapp3.1\24Mart(Class).runtimeconfig.json
+C:\Users\User\Desktop\C#Tasks\24Mart(Class)\24Mart(Class)\bin\Debug\netcoreapp3.1\24Mart(Class).runtimeconfig.dev.json
+C:\Users\User\Desktop\C#Tasks\24Mart(Class)\24Mart(Class)\bin\Debug\netcoreapp3.1\24Mart(Class).dll
+C:\Users\User\Desktop\C#Tasks\24Mart(Class)\24Mart(Class)\bin\Debug\netcoreapp3.1\24Mart(Class).pdb
+C:\Users\User\Desktop\C#Tasks\24Mart(Class)\24Mart(Class)\obj\Debug\netcoreapp3.1\24Mart(Class).csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#Tasks\24Mart(Class)\24Mart(Class)\obj\Debug\netcoreapp3.1\24Mart(Class).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#Tasks\24Mart(Class)\24Mart(Class)\obj\Debug\netcoreapp3.1\24Mart(Class).AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#Tasks\24Mart(Class)\24Mart(Class)\obj\Debug\netcoreapp3.1\24Mart(Class).AssemblyInfo.cs
+C:\Users\User\Desktop\C#Tasks\24Mart(Class)\24Mart(Class)\obj\Debug\netcoreapp3.1\24Mart(Class).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#Tasks\24Mart(Class)\24Mart(Class)\obj\Debug\netcoreapp3.1\24Mart(Class).dll
+C:\Users\User\Desktop\C#Tasks\24Mart(Class)\24Mart(Class)\obj\Debug\netcoreapp3.1\24Mart(Class).pdb
+C:\Users\User\Desktop\C#Tasks\24Mart(Class)\24Mart(Class)\obj\Debug\netcoreapp3.1\24Mart(Class).genruntimeconfig.cache
