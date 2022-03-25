@@ -20,35 +20,49 @@ namespace _24Mart
             Console.WriteLine(string.Concat(result)); */
             //TASK1
 
-            /*   string word = Console.ReadLine();
-               string newWord = "";
-               int count = 0;
-               for (int i = 0; i < word.Length; i++)
-               {
-                   if (char.IsDigit(word[i]) == true)
-                   {
-                       count++;
-                       break;
-                   }
-                   else if (char.IsUpper(word[i]) == true)
-                   {
-                       count++;
-                       break;
-                   }
-                   else if (char.IsLower(word[i]) == true)
-                   {
-                       count++;
-                       break;
-                   }
-               }
-               if (count >= 3)
-               {
-                   Console.WriteLine("This word have all features so True");
-               }
-               else
-               {
-                   Console.WriteLine("This word haven't all features or some of them so False");
-               }
+            /*    string word = Console.ReadLine();
+            string newWord = "";
+            int count = 0;
+            int countTwo = 0;
+            int countThree = 0;
+            bool check = true;
+
+            for (int i = 0; i < word.Length; i++)
+            {
+
+                
+
+
+                    if (char.IsDigit(word[i]) == true && count <1)
+                    {
+                        count++;
+                    
+
+                    }
+                    else if (char.IsUpper(word[i]) == true && countTwo<1)
+                    {
+                    countTwo++;
+
+
+                    }
+                    else if (char.IsLower(word[i]) == true && countThree<1)
+                    {
+                    countThree++;
+
+                    }
+
+                
+
+            }
+            int resultCount = count + countTwo + countThree;
+            if (resultCount >= 3)
+            {
+                Console.WriteLine("True");
+            }
+            else
+            {
+                Console.WriteLine("False");
+            }
                        */ // TASK 2
 
 
